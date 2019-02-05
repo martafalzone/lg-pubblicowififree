@@ -43,8 +43,8 @@ utilizzando le tecnologie Wi-Fi per la loro fruizione.
 .. toctree::
    :maxdepth: 2
    :numbered:
+   :caption: Documento in consultazione
    
-   Intro_consultazione.rst
    cosa-e-il-wifi.rst
    framework-normativo-gestione-servizio-wifi.rst
    maggiori-esperienze-wifi-pa.rst
