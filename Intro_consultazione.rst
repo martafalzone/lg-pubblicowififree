@@ -5,7 +5,7 @@ Introduzione per la consultazione pubblica
 **Informazioni sulla consultazione**
 
 
-- **Durata della consultazione:** dal xx mese 2019 al yy mese 2019
+- **Durata della consultazione:** dal 06 febbraio 2019 al 07 marzo 2019
 
 
 - **Settore:** ICT, Telecomunicazioni
@@ -25,4 +25,4 @@ Arricchire il perimetro di indicazioni suggerimenti e proposte, redatte in modal
 
 **Come partecipare**
 
-Le Linee guida per l’erogazione del servizio pubblico wi-fi free sono pubblicate su Docs Italia ed è possibile commentarle su **Forum Italia** fino al yy mese 2019.
+Le Linee guida per l’erogazione del servizio pubblico wi-fi free sono pubblicate su Docs Italia ed è possibile commentarle su `Forum Italia <https://forum.italia.it/c/documenti-in-consultazione>`_ fino al **07 marzo 2019**.
