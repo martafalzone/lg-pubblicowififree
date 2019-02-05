@@ -32,17 +32,18 @@ utilizzando le tecnologie Wi-Fi per la loro fruizione.
    :name: servizio wifi free
 
 
-
-
-
 .. toctree::
    :maxdepth: 2
+   
    introduzione.rst
    Intro_consultazione.rst
    scenario.rst
    
+ 
  .. toctree::
-   :numbered:
+    :maxdepth: 2
+    :numbered:
+   
    scenario.rst
    Intro_consultazione.rst
    cosa-e-il-wifi.rst
