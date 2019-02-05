@@ -40,11 +40,10 @@ utilizzando le tecnologie Wi-Fi per la loro fruizione.
    scenario.rst
    
  
- .. toctree::
-    :maxdepth: 2
-    :numbered:
+.. toctree::
+   :maxdepth: 2
+   :numbered:
    
-   scenario.rst
    Intro_consultazione.rst
    cosa-e-il-wifi.rst
    framework-normativo-gestione-servizio-wifi.rst
