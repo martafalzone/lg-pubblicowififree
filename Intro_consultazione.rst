@@ -5,7 +5,7 @@ Introduzione per la consultazione pubblica
 **Informazioni sulla consultazione**
 
 
-- **Durata della consultazione:** dal 06 febbraio 2019 al 07 marzo 2019
+- **Durata della consultazione:** dal 07 febbraio 2019 al 08 marzo 2019
 
 
 - **Settore:** ICT, Telecomunicazioni
