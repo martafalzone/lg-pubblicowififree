@@ -37,9 +37,12 @@ utilizzando le tecnologie Wi-Fi per la loro fruizione.
 
 .. toctree::
    :maxdepth: 2
-   :numbered:
-   
    introduzione.rst
+   Intro_consultazione.rst
+   scenario.rst
+   
+ .. toctree::
+   :numbered:
    scenario.rst
    Intro_consultazione.rst
    cosa-e-il-wifi.rst
