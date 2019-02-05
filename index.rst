@@ -1,6 +1,12 @@
 Linee guida per l'erogazione del servizio pubblico wi-fi free
 =============================================================
 
+
+.. admonition:: consultation
+   
+   La consultazione pubblica relativa al presente documento è attiva dal **06 febbraio** al **07 marzo 2019**. Questo documento raccoglie il testo delle Linee guida Linee guida per l’erogazione del servizio pubblico wi-fi free, disponibile per la consultazione pubblica.
+
+
 Negli ultimi anni si è assistito ad un processo evolutivo nell'ambito
 delle tecnologie di comunicazione in mobilità e/o senza fili che ha
 enormemente incrementato la diffusione di servizi sempre più sofisticati
@@ -25,12 +31,6 @@ utilizzando le tecnologie Wi-Fi per la loro fruizione.
    :alt: Servizio WiFi free
    :name: servizio wifi free
 
-
-
-
-.. admonition:: consultation
-   
-   La consultazione pubblica relativa al presente documento è attiva dal **xx mese** al **yy mese 2019**. Questo documento raccoglie il testo delle Linee guida Linee guida per l’erogazione del servizio pubblico wi-fi free, disponibile per la consultazione pubblica.
 
 
 
