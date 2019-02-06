@@ -35,7 +35,6 @@ utilizzando le tecnologie Wi-Fi per la loro fruizione.
 .. toctree::
    :maxdepth: 2
    
-   introduzione.rst
    Intro_consultazione.rst
    scenario.rst
    
