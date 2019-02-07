@@ -52,4 +52,9 @@ utilizzando le tecnologie Wi-Fi per la loro fruizione.
    federabilita-servizi-wifi.rst
    conclusioni.rst
    riferimenti-fonti.rst
+   
+.. toctree::
+   :name: glossary_toc
+   :hidden:
+
    glossario.rst
